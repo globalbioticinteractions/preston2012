@@ -1,6 +1,7 @@
 { "citation": "Daniel L. Preston, Sarah A. Orlofske, John P. McLaughlin, and Pieter T. J. Johnson. 2012. Food web including infectious agents for a California freshwater pond. Ecology 93:1760. http://dx.doi.org/10.1890/11-2194.1",
   "doi": "http://dx.doi.org/10.1890/11-2194.1",
   "format": "hechinger",
+  "delimiter": ",",
   "resources": {
     "nodes": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Nodes.csv",
     "links": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Links.csv"
