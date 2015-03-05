@@ -3,12 +3,12 @@
   "format": "hechinger",
   "delimiter": ",",
   "resources": {
-    "nodes": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Nodes.csv",
-    "links": "http://esapubs.org/archive/ecol/E092/174/Flensburg_Data_Links.csv"
+    "nodes": "http://esapubs.org/archive/ecol/E093/153/Data%5CQuick_Pond_Nodes.csv",
+    "links": "http://esapubs.org/archive/ecol/E093/153/Data%5CQuick_Pond_Links.csv"
   },
   "location": {
-    "locale": "Flensburg Fjord, a brackish shallow water inlet on the Baltic Sea, between Germany and Denmark",
-    "latitude": 54.8667,
-    "longitude": 9.55
+    "locale": "Quick Pond, a northern California pond ecosystem",
+    "latitude": 37.66,
+    "longitude": -121.93
   }
 }
