@@ -7,6 +7,10 @@
     "links": "http://esapubs.org/archive/ecol/E093/153/Data%5CQuick_Pond_Links.csv"
   },
   "location": {
+    "type": {
+        "id": "ENVO:00000033",
+        "label": "pond"
+    },
     "locale": "Quick Pond, a northern California pond ecosystem",
     "latitude": 37.66,
     "longitude": -121.93
