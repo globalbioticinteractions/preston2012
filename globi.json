@@ -3,8 +3,8 @@
   "format": "hechinger",
   "delimiter": ",",
   "resources": {
-    "nodes": "http://esapubs.org/archive/ecol/E093/153/Data%5CQuick_Pond_Nodes.csv",
-    "links": "http://esapubs.org/archive/ecol/E093/153/Data%5CQuick_Pond_Links.csv"
+    "nodes": "Quick_Pond_Nodes.csv",
+    "links": "Quick_Pond_Links.csv"
   },
   "location": {
     "type": {
